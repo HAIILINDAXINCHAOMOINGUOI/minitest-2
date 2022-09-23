@@ -1,0 +1,1 @@
+myfile=open("lab12/text.txt","w")
